@@ -1,6 +1,6 @@
 # PayHere Payment Gateway Integration with Next.js
 
-![image](https://github.com/user-attachments/assets/fc53ffc2-4f0b-4a0b-ab49-1cf9eb488477)
+![image](https://github.com/user-attachments/assets/ee57b3bb-cf35-4509-896d-701e74003c1c)
 
 ![image](https://github.com/user-attachments/assets/4be58f85-ef7b-4642-9348-32346c2882b6)
 
